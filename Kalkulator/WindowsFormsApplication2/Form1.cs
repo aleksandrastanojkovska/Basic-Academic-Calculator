@@ -136,7 +136,7 @@ namespace WindowsFormsApplication2
 
         private void btnZero_Click(object sender, EventArgs e)
         {
-            //dolzhinata ili da e razlichna od 1 ili ako e ednakva na 1 toa da ne e znakot 0, 00 na pochetok da nema
+            //dolzinata ili da e razlichna od 1 ili ako e ednakva na 1 toa da ne e znakot 0, 00 na pocetok da nema
             if (txtDisplay.Text != "0" || txtDisplay.Text.Length != 1)
             {
                 txtDisplay.Text = txtDisplay.Text + btnZero.Text;
