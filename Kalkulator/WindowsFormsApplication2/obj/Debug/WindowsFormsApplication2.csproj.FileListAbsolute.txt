@@ -1,0 +1,9 @@
+F:\Premesteni od Desktop\vp16\Kalkulator\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+F:\Premesteni od Desktop\vp16\Kalkulator\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+F:\Premesteni od Desktop\vp16\Kalkulator\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+F:\Premesteni od Desktop\vp16\Kalkulator\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+F:\Premesteni od Desktop\vp16\Kalkulator\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+F:\Premesteni od Desktop\vp16\Kalkulator\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+F:\Premesteni od Desktop\vp16\Kalkulator\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+F:\Premesteni od Desktop\vp16\Kalkulator\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+F:\Premesteni od Desktop\vp16\Kalkulator\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Kalkulator.resources
