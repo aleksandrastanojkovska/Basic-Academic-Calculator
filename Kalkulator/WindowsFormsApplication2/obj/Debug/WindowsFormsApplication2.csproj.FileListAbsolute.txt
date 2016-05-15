@@ -7,3 +7,6 @@ F:\Premesteni od Desktop\vp16\Kalkulator\WindowsFormsApplication2\obj\Debug\Wind
 F:\Premesteni od Desktop\vp16\Kalkulator\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
 F:\Premesteni od Desktop\vp16\Kalkulator\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
 F:\Premesteni od Desktop\vp16\Kalkulator\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Kalkulator.resources
+C:\Users\pc\Documents\GitHub\Basic-Academic-Calculator\Kalkulator\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\pc\Documents\GitHub\Basic-Academic-Calculator\Kalkulator\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\pc\Documents\GitHub\Basic-Academic-Calculator\Kalkulator\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb

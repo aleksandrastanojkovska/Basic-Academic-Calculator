@@ -323,11 +323,12 @@ namespace WindowsFormsApplication2
         int multiplicationPart = 0;
         int divisionPart = 0;
         int modBit = 0;
-        Boolean fl = false;
+        Boolean fl = false; 
 
+	
 
         private void calculate()
-        {
+        { //funkcija za presmetuvanje
             if (txtInput.Text != ".")
             {
                 variable2 = Convert.ToDouble(txtInput.Text);
